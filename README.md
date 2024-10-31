@@ -16,7 +16,7 @@ The neural network has the following layers:
 2. **Hidden Layer**: 64 neurons with ReLU activation.
 3. **Output Layer**: 3 neurons with Softmax activation for classification.
 
-![Network Architecture](GnoelixiAI_NN_Architecture.jpg)
+![Network Architecture](GnoelixiAI_NN_Architecture.png)
 
 ## Getting Started
 
