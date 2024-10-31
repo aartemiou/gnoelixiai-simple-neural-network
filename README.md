@@ -2,6 +2,8 @@
 
 Welcome to the **GnoelixiAI Simple Neural Network** project! This repository provides the code and resources for building a simple neural network using **Keras**, **TensorFlow**, **Python**, and **Microsoft SQL Server**. The project was initially featured in the GnoelixiAI Hub newsletter and is designed to train a model on the Iris dataset stored in SQL Server.
 
+Read the full article on LinkedIn: [Creating a Simple Neural Network with Keras, TensorFlow, Python and SQL Server](https://www.linkedin.com/pulse/creating-simple-neural-network-keras-tensorflow-python-artemiou-uhqnf/)
+
 ## Project Overview
 
 This project demonstrates how to:
