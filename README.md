@@ -34,3 +34,11 @@ To get started, clone this repository and follow the steps below to set up the e
    ```bash
    git clone https://github.com/your-username/gnoelixiai-simple-neural-network.git
    cd gnoelixiai-simple-neural-network
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. 
